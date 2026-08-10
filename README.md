@@ -1,2 +1,1 @@
-# creative-os-lab
-Designer-Centered Creative Operating System.
+# Living Nodes System.
